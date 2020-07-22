@@ -5,7 +5,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## How To
 
 Run `npm run generate` to generate database with Faker.
+
 Run `npm run server` to run json-server (`http://localhost:3000/`).
+
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 
 ## Development server
